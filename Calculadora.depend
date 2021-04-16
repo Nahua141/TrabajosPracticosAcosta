@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599759497 source:c:\users\nahue\onedrive\escritorio\trabajos practicos 2 cuatri\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1599852347 c:\users\nahue\onedrive\escritorio\trabajos practicos 2 cuatri\calculadora\operaciones.h
+
+1599758444 source:c:\users\nahue\onedrive\escritorio\trabajos practicos 2 cuatri\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
