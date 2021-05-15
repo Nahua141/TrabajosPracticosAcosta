@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1589651671 source:c:\users\nahue\onedrive\escritorio\tp2\tp2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sectores.h"
+	"dataWarehouse.h"
+	"utn.h"
+
+1589651675 c:\users\nahue\onedrive\escritorio\tp2\tp2\empleado.h
+	"sectores.h"
+
+1589651649 c:\users\nahue\onedrive\escritorio\tp2\tp2\sectores.h
+
+1589651649 c:\users\nahue\onedrive\escritorio\tp2\tp2\datawarehouse.h
+
+1589651649 c:\users\nahue\onedrive\escritorio\tp2\tp2\utn.h
+
+1589651663 source:c:\users\nahue\onedrive\escritorio\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"empleado.h"
+	"sectores.h"
+
+1589651649 source:c:\users\nahue\onedrive\escritorio\tp2\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
